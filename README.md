@@ -12,10 +12,11 @@
 
 ### 🚀 About Me
 
-- 🧠 Focused on **Agentic AI & LLM Engineering** — multi-agent orchestration, RAG, and LLM evaluation systems
-- 🛠️ Building a 3-project GenAI portfolio: a **research agent**, a **text-to-SQL data analyst agent**, and an **LLM evaluation/observability platform**
-- 📄 Co-author on 3 IEEE conference publications spanning explainable AI and healthcare ML
-- 🎯 Targeting roles: **LLM Engineer · Agentic AI Engineer · GenAI Engineer**
+- 🧠 **AI / GenAI Engineer** focused on Agentic AI, LLM applications, RAG, and LLM evaluation
+- ⚙️ Built and engineered **3 end-to-end GenAI systems** spanning agentic research, autonomous data analysis, and LLM evaluation/observability
+- 🔧 Experienced with **LangGraph, FastAPI, Qdrant, DuckDB, PostgreSQL, MCP, and multi-provider LLM architectures**
+- 📄 Co-author of **3 IEEE conference publications** covering Explainable AI and healthcare machine learning
+- 🎯 Interested in **GenAI Engineer · LLM Engineer · Agentic AI Engineer** roles
 
 ---
 
@@ -106,17 +107,10 @@ ML system to flag fraudulent health insurance claims using XGBoost & SVM with SM
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanVK10&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanVK10&hide_border=true" height="165">
+  <b>Building AI that doesn't just generate — it retrieves, reasons, executes, and verifies.</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanVK10&layout=compact&hide_border=true">
+  <i>Let's build something meaningful.</i>
 </p>
-
----
-
-<p align="center"><i>Open to LLM Engineer / Agentic AI Engineer / GenAI Engineer opportunities — let's connect!</i></p>
