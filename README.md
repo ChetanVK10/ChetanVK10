@@ -1,16 +1,13 @@
 <h1 align="center">Hi there, I'm Chetan Viswa Kumar 👋</h1>
 
-<h3 align="center">GenAI / LLM Engineer &nbsp;|&nbsp; Building Production-Grade Agentic AI Systems</h3>
+<h3 align="center">GenAI / LLM Engineer &nbsp;|&nbsp; Building Production-Oriented Agentic AI Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chetan-viswa-kumar-myneedi-2487a625/">
+  <a href="https://www.linkedin.com/in/chetan-viswa-kumar-myneedi-2487a6258">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:myneedichetan@example.com">
+  <a href="mailto:YOUR_REAL_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
